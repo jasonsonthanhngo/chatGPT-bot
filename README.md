@@ -10,7 +10,8 @@ AiChat_ - Engaging Conversations with AI
 ![AiCode](https://github.com/jasonsonthanhngo/chatGPT-bot/assets/131301318/004b30c3-bfd9-4596-a723-7c45ab73d075)
 AiCode_ - Elevating Technical Conversations
 
-https://github.com/jasonsonthanhngo/chatGPT-bot/assets/131301318/32b6a351-fe01-40ac-9f93-681af1b2b891
+[![Watch the video]https://github.com/jasonsonthanhngo/chatGPT-bot/assets/131301318/32b6a351-fe01-40ac-9f93-681af1b2b891]
+
 AiAssist_ - Your Personal Writing Assistant
 
 

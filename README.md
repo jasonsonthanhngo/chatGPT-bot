@@ -1,16 +1,22 @@
 # Chatbot App with GPT-3.5-turbo Model
 
-Welcome to my Chatbot App, where engaging conversations with our AI-powered bot await you! This project utilizes the powerful GPT-3.5-turbo model from OpenAI to deliver seamless and personalized chat experiences. Whether you're seeking assistance, engaging in discussions, or simply having fun, our chatbot is here to make your conversations come to life!
+Welcome to my Chatbot App, where engaging conversations with our AI-powered bot await you! This project utilizes the powerful **GPT-3.5-turbo** model from OpenAI to deliver seamless and personalized chat experiences. Whether you're seeking assistance, engaging in discussions, or simply having fun, our chatbot is here to make your conversations come to life!
 
 ## Preview
 ![Log In](https://github.com/jasonsonthanhngo/chatGPT-bot/assets/131301318/a7504df5-3a9e-4557-a664-626b4fcdf67b)
+
 Log In UI
+
 ![AiChat](https://github.com/jasonsonthanhngo/chatGPT-bot/assets/131301318/259956ce-0ae2-4536-938d-7f1846c009c3)
+
 AiChat_ - Engaging Conversations with AI
+
 ![AiCode](https://github.com/jasonsonthanhngo/chatGPT-bot/assets/131301318/004b30c3-bfd9-4596-a723-7c45ab73d075)
+
 AiCode_ - Elevating Technical Conversations
 
-![Screenshot](Preview/AiAssist.mp4)
+![Screenshot](preview/AiAssist.gif)
+
 AiAssist_ - Your Personal Writing Assistant
 
 
@@ -61,4 +67,4 @@ Remember to adjust the repository URL, directory name, and port number to match 
 
 ---
 
-Thank you for using our Chatbot App! We hope you enjoy your conversations with our AI-powered bot and find the experience delightful. Happy chatting! 😊🤖
+Thank you for using my Chatbot App! We hope you enjoy your conversations with our AI-powered bot and find the experience delightful. Happy chatting! 😊🤖
